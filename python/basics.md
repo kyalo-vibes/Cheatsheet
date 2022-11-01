@@ -65,3 +65,19 @@ msg1=msg[18]+' '+msg[:8]+msg[25:29]+msg[7:11]+msg[13]+msg[12]+msg[2]+msg[1]+msg[
 print(msg1.title())
 print(msg1[::-1].title()) # print a string backwards
 ```
+
+## 5) Replace text
+```bash
+msg='Welcome to Python 101: Strings'
+print(msg.replace('Python','Java'))
+```
+
+## 6) Print Format
+```bash
+name='TERRY'
+color = 'RED'
+msg = '[' + name + '] loves the color ' + color.lower() + '!'
+msg1 = f'[{name}] loves the color {color.lower()}!'
+print(msg)
+print(msg1)
+```
