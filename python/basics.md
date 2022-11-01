@@ -11,3 +11,10 @@ iii) String
 `name = "John"`
 iv Boolean
 `isGoing = False"`
+
+`
+print(type('hello'))
+print(type(1))
+print(type(1.64))
+print(type(True))
+`
