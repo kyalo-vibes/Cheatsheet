@@ -44,3 +44,16 @@ j = str(3.01)     # j will be '3.01'
 
 print([a,b,c,d,e,f,g,h,i,j])
 ```
+
+## 3) Arithmetic Operators
+```bash
+a=6
+b=2
+print('Addition : ', a + b)
+print('Subtraction : ', a - b)
+print('Multiplication : ', a * b)
+print('Division (float) : ', a / b)
+print('Division (floor) : ', a // b)
+print('Modulus : ', a % b)
+print('Exponent : ', a ** b)
+```
