@@ -4,13 +4,21 @@
 There are four data types:
 
 i) Integer
-`a = 15`
+```bash
+a = 15
+```
 ii) Float
-`a = 15.0`
+```bash
+a = 15.0
+```
 iii) String
-`name = "John"`
+```bash
+name = "John"
+```
 iv Boolean
-`isGoing = False"`
+```bash
+isGoing = False"
+```
 
 ```bash
 print(type('hello'))
