@@ -33,7 +33,7 @@ Simply call the variable you want to typecast inside the data type:
 a = int(1)        # a will be 1
 b = int(2.5)      # b will be 2
 c = int("3")      # c will be 3
-#c1 = int("3.4")   # this gives an error since float cannot be cast to int
+#c1 = int("3.4")   # this gives an error since string cannot be cast to int
 d = float(1)      # d will be 1.0
 e = float(2.5)    # e will be 2.5
 f = float("3")    # f will be 3.0
